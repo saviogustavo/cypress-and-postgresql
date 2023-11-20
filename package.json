@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^13.1.0",
+    "cypress-postgres-10v-compatibility": "^1.0.0"
+  }
+}
